@@ -1,4 +1,4 @@
-![](https://github.com/HeliaTutueanu/HeliaTutueanu/blob/main/assets/githubCover.png?raw=true)
+![](https://github.com/HeliaTutueanu/HeliaTutueanu/blob/main/assets/githubCover.png)
 
 ### Hello, I'm Helia!
 

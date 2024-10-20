@@ -2,9 +2,9 @@
 
 ### Hello, I'm Helia!
 
-- I’m a certified Full-Stack Web Developer
+- I’m a certified Software Developer
 - I’m always open and eager to learn new skills, tools & programming languages
-- I'm passionate about creating responsive, accessible and creative projects
+- I'm passionate about creating progressive, responsive, accessible and creative projects
 
 ---
 
